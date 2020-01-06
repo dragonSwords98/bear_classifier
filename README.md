@@ -20,7 +20,7 @@ Simply POST images to this server and it will tell you if the image you've submi
   probs: 'statistics',
   text: 'human friendly text output of the predicted bear',
 }
-
+```
 
 # Known Issues
 ## pillow
