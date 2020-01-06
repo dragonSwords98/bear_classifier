@@ -1,0 +1,6 @@
+uvicorn
+starlette
+fastai
+torch
+pillow==6.1
+python-multipart
